@@ -1,2 +1,6 @@
 # TBR-To-Be-Read-List
 This is a code that allows the user to make and modify a list of the books they want to read.
+Options in the menu: 1) add a book to list, 2) display list, 3) mark book as read, 4) remove book from list, 5) quit function, 6) clear list, 7) sort list alphebetically, 8) count books on the list.
+The list starts empty so the user can upload any books they would like to read. The program asks the user which option on the menu they would like to choose. After typing that number in, the program runs the specified option and then asks the user again what they would like to do unless the user chose to quit the funtion. 
+I created this on VS code using python because that is what we are learning on in class. I made the orginal code with my classmate, Kaelyn.
+Example of how to use: Lily runs the function and chooses option 1 to begin adding to her list. She adds The Hunger Games, the chooses option 1, adds Percy Jackson, chooses option 1 again, and adds Divergant. After Lily has finished reading Percy Jackson, she chooses option 3 to mark the book as read. After she has read all over her books she decides to lear the list because she doesn't want the list to be cluttered, so she chooses option 6.
